@@ -4,6 +4,8 @@ description: excel sheet
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/4bc44fea72d93e8b87a3fde649e25e44_ps5.xls
 file_size: 56832
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This file includes 3 hours examination with one closed book portion
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/18002b4213a5ab5f882aa7e153fe1752_final.pdf
 file_size: 136983
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

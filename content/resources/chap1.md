@@ -7,6 +7,8 @@ description: 'This lecture includes the following:
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/b79ab3a9e56672f4f9e344305ff5998b_chap1.pdf
 file_size: 148927
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
