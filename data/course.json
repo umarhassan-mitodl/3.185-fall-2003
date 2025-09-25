@@ -42,6 +42,7 @@
     "website": "3-185-transport-phenomena-in-materials-engineering-fall-2003"
   },
   "course_title": "Transport Phenomena in Materials Engineering",
+  "hide_download": true,
   "course_description": "This course deals with solid-state diffusion, homogeneous and heterogeneous chemical reactions, and spinodal decomposition. Topics covered include: heat conduction in solids, convective and radiative heat transfer boundary conditions; fluid dynamics, 1-D solutions to the Navier-Stokes equations, boundary layer theory, turbulent flow, and coupling with heat conduction and diffusion in fluids to calculate heat and mass transfer coefficients.\n",
   "department_numbers": [
     "3"
@@ -52,6 +53,7 @@
     "content": "43313cd2-5f8d-5ac5-fbaa-8f301c2d6ef2",
     "website": "3-185-transport-phenomena-in-materials-engineering-fall-2003"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",

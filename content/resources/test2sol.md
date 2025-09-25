@@ -4,6 +4,8 @@ description: This file contains solutions for test 2.
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/46f8eebaf3bcaffa107a6fc126a69b4e_test2sol.pdf
 file_size: 136247
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

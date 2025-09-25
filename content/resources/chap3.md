@@ -7,6 +7,8 @@ description: 'This lecture talks about wrap up dimensional analysis, heat conduc
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/b16f7848c4359919f0c02da1ebaa58f2_chap3.pdf
 file_size: 335213
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

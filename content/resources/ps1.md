@@ -4,6 +4,8 @@ description: This file includes problems.
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/95e24bc2ccf7b9ff5463ef2c8f1e3877_ps1.pdf
 file_size: 77847
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,6 +7,8 @@ description: 'This file covers the following topics:
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/bb0335755805bd60dc7b23f92311516d_handout_abet.pdf
 file_size: 114598
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

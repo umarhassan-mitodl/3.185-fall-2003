@@ -6,6 +6,8 @@ description: 'This file covers the following topics:
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/cd9439a7a92e73bc7efc1dbbd67fabeb_recitation4.pdf
 file_size: 111367
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
