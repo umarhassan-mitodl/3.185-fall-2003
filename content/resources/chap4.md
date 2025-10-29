@@ -7,8 +7,6 @@ description: This file talks about introduction to Newtonian Fluids, simple Newt
 file: /courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/8027e02c18951dca6d22e8a0254401ec_chap4.pdf
 file_size: 396077
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
